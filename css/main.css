@@ -2207,7 +2207,7 @@ input::-moz-focus-inner {
   -ms-flex-flow: column nowrap;
   flex-flow: column nowrap;
   width: 300px;
-  background-color: #151515;
+  background-color: #cc081b;
   padding-top: 6.4rem;
   padding-right: 3.2rem;
   padding-left: 4.4rem;
@@ -2233,8 +2233,8 @@ input::-moz-focus-inner {
 }
 
 .header__logo img {
-  width: 125px;
-  height: 30px;
+  width: 100px;
+  height: 100px;
   margin: 0;
 }
 
@@ -2258,7 +2258,7 @@ input::-moz-focus-inner {
   -ms-flex-align: stretch;
   align-items: stretch;
   max-width: 100%;
-  background-color: #151515;
+  background-color: #cc081b;
   margin-top: 3.2rem;
 }
 
@@ -2783,7 +2783,7 @@ body.search-is-visible {
 
   .header__nav-wrap {
     z-index: 99;
-    background: #151515;
+    background: #cc081b;
     opacity: 0;
     visibility: hidden;
     position: fixed;
